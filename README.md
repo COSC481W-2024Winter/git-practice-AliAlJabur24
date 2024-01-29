@@ -1,6 +1,3 @@
-"Initial content" 
-<<<<<<< HEAD
-"## Feature2" 
-=======
+# Git Practice
 "## Feature1" 
->>>>>>> main
+"## Feature2"
